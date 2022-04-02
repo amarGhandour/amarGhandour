@@ -87,17 +87,16 @@
     <a href="https://github.com/amarGhandour"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amarGhandour&show_icons=true&locale=en&theme=algolia" alt="amarGhandour" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amarGhandour&show_icons=true&locale=en&layout=compact&theme=algolia" alt="amarGhandour" height="192px"/>
 	</p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
-
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/amarGhandour"><img alt="Amar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amarGhandour&custom_title=Amar Ghandour's Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/amarGhandour"><img alt="Amar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amarGhandour&custom_title=Amar%20Ghandour's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
